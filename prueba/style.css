@@ -1,0 +1,48 @@
+html{
+    text-align: center;
+    font-family: 'Quicksand', sans-serif;
+}
+
+header{
+    background-color: rgb(133, 110, 6);
+    color: white;
+    padding: 20px;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 3rem;
+}
+
+section{
+     max-width: 500px;
+     margin: 0 auto;
+}
+
+h3{
+    color:rgb(133, 110, 6);
+    font-size: 2rem;
+}
+
+p{
+    margin: 10px;
+    font-size: 1.5rem;
+    color:rgb(7, 7, 68);
+    
+}
+
+footer {
+    background-color:rgb(133, 110, 6) ;
+    color: white;
+    padding: 1rem;
+}
+
+footer p{
+    color:white;
+}
+
+a:hover{ 
+    color:aqua;
+}
+
+a{
+    font-size: 1.5rem;
+}
+
